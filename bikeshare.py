@@ -17,6 +17,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
 
+    #cities, months, and days are used as tokens to read the files, and behavior of the program
     cities = ["chicago", "new york", "washington"]
     months = {
             "all": 0,
