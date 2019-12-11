@@ -1,5 +1,5 @@
 ### Date created
-12/11/2019
+12/11/2019 (first commit for part 2)
 
 ### Project Title
 Git Final Project
