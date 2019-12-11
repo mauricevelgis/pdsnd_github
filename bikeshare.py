@@ -17,6 +17,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
 
+    #cities, months, and days are used as tokens to read the files, and behavior of the program
     cities = ["chicago", "new york", "washington"]
     months = {
             "all": 0,
@@ -105,6 +106,7 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
+    #The start of the timer to see how long it takes to execute
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
