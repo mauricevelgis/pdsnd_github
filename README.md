@@ -2,7 +2,7 @@
 12/11/2019 (first commit for part 2)
 
 ### Project Title
-Git Final Project
+Git Final Project (second commit for part 2)
 
 ### Description
 Fork a Git repository and push my python project in it
