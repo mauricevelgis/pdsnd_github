@@ -5,7 +5,7 @@
 Git Final Project (second commit for part 2)
 
 ### Description
-Fork a Git repository and push my python project in it
+Fork a Git repository and push my python project in it (third commit for part 2)
 
 ### Files used
 bikeshare.py
