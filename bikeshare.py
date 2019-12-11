@@ -106,6 +106,7 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
+    #The start of the timer to see how long it takes to execute
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
